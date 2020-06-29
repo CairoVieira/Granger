@@ -1,0 +1,6 @@
+[submodule "granger-api"]
+	path = granger-api
+	url = https://github.com/CairoVieira/granger-api.git
+[submodule "granger-front"]
+	path = granger-front
+	url = https://github.com/CairoVieira/granger-front.git
