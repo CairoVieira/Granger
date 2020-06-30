@@ -1,4 +1,4 @@
-![Alt text](https://github.com/CairoVieira/granger-front/blob/master/src/imagens/GrangerDesktop.png)
+![Alt text](https://github.com/CairoVieira/Granger/blob/master/GrangerDesktop.png)
 
 # Granger
 
@@ -15,7 +15,7 @@ This project was developed in order to optimize three analyzes (Descriptive Anal
 * Node.js - [Granger-api](https://github.com/CairoVieira/granger-api/tree/75ba46187bc0e12b14fea6a7bcf0cf8c127048c0).
 
 
-![Alt text](https://github.com/CairoVieira/granger-front/blob/master/src/imagens/Granger.gif)
+![Alt text](https://github.com/CairoVieira/Granger/blob/master/GrangerGif.gif)
 
 ## Installation
 `<npm i>`
@@ -32,4 +32,4 @@ Cairo Vieira - vieira.cairo@hotmail.com
 ## MIT license
 Copyright 2020 © Granger.
 
-![Alt text](https://github.com/CairoVieira/granger-front/blob/master/src/imagens/GrangerDevices.png)
+![Alt text](https://github.com/CairoVieira/Granger/blob/master/GrangerDevices.png)
