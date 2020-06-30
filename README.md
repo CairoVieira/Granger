@@ -2,14 +2,14 @@
 
 # Granger
 
-Granger is a web system created for educational purposes used for specific statistical analysis, based on Node.JS and ReactJS.
-In this repository, you will find the frontend and backend of the application.
+Granger é um sistema web criado para fins educacionais, usado para análises estatísticas específicas, com base em Node.JS e ReactJS.
+Neste repositório, você encontrará o Frontend e o Backend da aplicação.
 
-This project was developed in order to optimize three analyzes (Descriptive Analysis, Probability and Correlation and Regression), creating an interface for inserting and importing data and, finally, presenting and interpreting the results.
+Este projeto foi desenvolvido com o objetivo de otimizar três análises (Análise Descritiva, Probabilidade e Correlação e Regressão), criando uma interface para inserir e importar dados e, finalmente, apresentar os resultados para interpretação.
 
 * [Preview](http://granger-stats-com.umbler.net/)
 
-## Technologies
+## Technologias
 
 * Reactjs - [Granger-front](https://github.com/CairoVieira/granger-front/tree/ab2b8e251c97b9aec4ffd92d7f3cb341c8c23ba8);
 * Node.js - [Granger-api](https://github.com/CairoVieira/granger-api/tree/75ba46187bc0e12b14fea6a7bcf0cf8c127048c0).
@@ -17,16 +17,16 @@ This project was developed in order to optimize three analyzes (Descriptive Anal
 
 ![Alt text](https://github.com/CairoVieira/Granger/blob/master/GrangerGif.gif)
 
-## Installation
+## Instalação
 `<npm i>`
 
-## Test
+## Testes
 `<npm start>`
 
-## Release History
-1.1.7 - Published
+## Histórico de releases
+1.1.7 - Publicada
 
-## Authors
+## Autor
 Cairo Vieira - vieira.cairo@hotmail.com
 
 ## MIT license
