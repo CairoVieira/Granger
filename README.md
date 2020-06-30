@@ -1,5 +1,6 @@
-![image of Devices]
+![Devices]
 (https://github.com/CairoVieira/granger-front/blob/master/src/imagens/GrangerDevices.png)
+Format: ![Alt Text](url)
 
 # Granger
 
