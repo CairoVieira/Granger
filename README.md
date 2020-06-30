@@ -23,8 +23,8 @@ Este projeto foi desenvolvido com o objetivo de otimizar três análises (Análi
 ## Testes
 `<npm start>`
 
-## Histórico de releases
-1.1.7 - Publicada
+## Histórico de versões
+1.1.5 - Publicada
 
 ## Autor
 Cairo Vieira - vieira.cairo@hotmail.com
