@@ -24,8 +24,5 @@ This project was developed in order to optimize three analyzes (Descriptive Anal
 ## Authors
 Cairo Vieira - vieira.cairo@hotmail.com
 
-## License
-License
-
 ## MIT license
 Copyright 2020 © Granger.
