@@ -1,6 +1,4 @@
-![Devices]
-(https://github.com/CairoVieira/granger-front/blob/master/src/imagens/GrangerDevices.png)
-Format: ![Alt Text](url)
+Imagem
 
 # Granger
 
@@ -8,6 +6,8 @@ Granger is a web system created for educational purposes used for specific stati
 In this repository, you will find the frontend and backend of the application.
 
 This project was developed in order to optimize three analyzes (Descriptive Analysis, Probability and Correlation and Regression), creating an interface for inserting and importing data and, finally, presenting and interpreting the results.
+
+Gif
 
 ## Technologies
 
