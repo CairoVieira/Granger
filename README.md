@@ -24,7 +24,7 @@ Este projeto foi desenvolvido com o objetivo de otimizar três análises (Análi
 `<npm start>`
 
 ## Histórico de versões
-1.1.5 - Publicada
+2.0.0 - Publicada
 
 ## Autor
 Cairo Vieira - vieira.cairo@hotmail.com
